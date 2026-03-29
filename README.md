@@ -1,11 +1,23 @@
 # fastapi-rapidoc-router
 
+[![PyPI version](https://img.shields.io/pypi/v/fastapi-rapidoc-router.svg)](https://pypi.org/project/fastapi-rapidoc-router/)
+
 Simple reusable RapiDoc router for FastAPI projects.
+
+PyPI: https://pypi.org/project/fastapi-rapidoc-router/
 
 ## Install
 
 ```bash
-pip install .
+pip install fastapi-rapidoc-router
+```
+
+## Development Install
+
+From local source:
+
+```bash
+pip install -e .
 ```
 
 Or from a Git repository:
