@@ -23,7 +23,7 @@ pip install -e .
 Or from a Git repository:
 
 ```bash
-pip install git+https://github.com/<your-org>/<your-repo>.git
+pip install git+https://github.com/Kinjalrk2k/rapidoc-fastapi.git
 ```
 
 ## Usage
